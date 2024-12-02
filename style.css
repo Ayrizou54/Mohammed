@@ -52,7 +52,7 @@ header {
 }
 
 .navigation a:hover{
-    color: aqua;
+    color: white;
 }
 
 .section {
@@ -306,7 +306,7 @@ body{
 }
 
 .footer-title span {
-    color: aqua;
+    color: white;
 }
 .footer .social-icons a{
     font-size: 1.3em;
